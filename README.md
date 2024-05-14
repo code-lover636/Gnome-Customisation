@@ -1,2 +1,3 @@
 # Gnome-Customisation
-Themes, icons and other files for gnome.
+
+Checkout other branches for themes, icons and other files for gnome.
